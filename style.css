@@ -1,0 +1,23 @@
+#app{
+    background-color: aliceblue;
+}
+
+.line{
+    height: 6px;
+    width: 70px;
+    background-color: darkblue;
+    margin: 8px auto;
+}
+
+#game{
+    background-color: lightcoral;
+}
+
+body{
+    text-align: center;
+}
+
+img{
+    height: 300px;
+    margin: 20px;
+}
